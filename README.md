@@ -53,11 +53,11 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** with **3 years of 
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 🐦 [X (Twitter)](https://twitter.com/yourtwitter)
-- 📘 [Facebook](https://facebook.com/yourfacebook)
-- 📞 [WhatsApp](https://wa.me/yourwhatsapplink)
-- 📷 [Instagram](https://instagram.com/yourinstagram)
+- 💼 [LinkedIn](https://www.linkedin.com/in/levi-ikechukwu-933a3125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🐦 [X (Twitter)](https://x.com/LeviDev_?t=B4y_oPMdOAvrOxJ0_AINRA&s=09)
+- 📘 [Facebook](https://www.facebook.com/profile.php?id=100093596126423)
+- 📞 [WhatsApp](https://wa.me/message/J6O6XEA6YMR4K1)
+- 📷 [Instagram](https://www.instagram.com/levidev_/profilecard/?igsh=MXFvZWF2NjMwYnAwYQ==)
 
 ---
 
