@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Instagram Clone App**
+- 🔭 I’m currently working on **Linkprosoft**
 
-- 🌱 I’m currently learning **REACT, NODEJs, REACT NATIVE**
+- 🌱 I’m currently learning **REACT, NODEJs, REACT NATIVE, Nextjs**
 
 - 💬 Ask me about **CSS, JavaScript**
 
@@ -17,7 +17,8 @@
 
 - ⚡ Fun fact **I think I am funny 😍**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:** https://wa.me/message/J6O6XEA6YMR4K1**
+</h3>
 <p align="left">
 </p>
 
