@@ -44,17 +44,23 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** with **3 years of 
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=levi-ikechukwu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-ikechukwu&layout=compact&theme=radical)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levi-ikechukwu&" alt="levi-ikechukwu" /></p>
 
 ---
 
 ## 📫 Let's Connect
-- 🌐 [Portfolio Website](https://yourportfolio.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 🐦 [Twitter](https://twitter.com/yourtwitter)
+- 🐦 [X (Twitter)](https://twitter.com/yourtwitter)
+- 📘 [Facebook](https://facebook.com/yourfacebook)
+- 📞 [WhatsApp](https://wa.me/yourwhatsapplink)
+- 📷 [Instagram](https://instagram.com/yourinstagram)
 
 ---
 
 ### 🎨 Design Inspiration
 "Coding is not just about solving problems but creating experiences. Let’s build something amazing together!"
+
