@@ -1,4 +1,4 @@
-# Hi there, I'm LeviDev 👋
+# Hi Dear, I'm Levi 👋
 
 ![Software Engineer Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -48,7 +48,6 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** with **3 years of 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-ikechukwu&layout=compact&theme=radical)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levi-ikechukwu&" alt="levi-ikechukwu" /></p>
 
 ---
 
