@@ -2,7 +2,7 @@
 
 ![Software Engineer Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Welcome to my GitHub! I'm a passionate **Frontend Developer** with **3 years of experience**, currently exploring the exciting world of **full-stack development** and **software engineering**. My journey in coding is fueled by a love for building interactive, user-friendly applications.
+Welcome to my GitHub! I'm a passionate **Frontend Developer** with over **3 years of experience**, currently exploring the exciting world of **full-stack development** and **software engineering**. My journey in coding is fueled by a love for building interactive, user-friendly applications.
 
 ---
 
@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** with **3 years of 
 ---
 
 ## 💼 Current Project
-**[Linkprosoft](https://github.com/your-repo)** 🌟
+**[Linkprosoft](https://github.com/Levi-ikechukwu/Linkprosoft)** 🌟
 > A search engine for finding people with skills and job opportunities. Aimed at bridging the gap between talent and opportunity.
 
 ---
