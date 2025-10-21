@@ -1,94 +1,65 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Levi – Full-Stack Web Developer</h1>
-<p align="center">
-  Aspiring Software Engineer | MERN Stack Developer | Passionate about building scalable digital solutions
-</p>
+# Hi Dear, I'm Levi 👋
+
+![Software Engineer Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+Welcome to my GitHub! I'm a passionate **Frontend Developer** with over **3 years of experience**, currently exploring the exciting world of **full-stack development** and **software engineering**. My journey in coding is fueled by a love for building interactive, user-friendly applications.
 
 ---
 
-## 👨‍💻 About Me
-- 💻 I specialize in building full-stack applications using the **MERN stack (MongoDB, Express.js, React, Node.js)**
-- 📚 **Currently learning Express.js** to deepen my backend expertise
-- 🎯 Goal: Become a high-performing **Software Engineer** contributing to impactful solutions
-- 🎹 When I'm not coding, you’ll probably find me exploring music or playing the piano
-- 🚀 I believe in continuous improvement — one line of code at a time
+## 🚀 About Me
+
+- 🌟 **Frontend Technologies:** React, Tailwind CSS
+- 📦 **Backend Learning:** Node.js, PostgreSQL
+- 📱 **Mobile Development Learning:** React Native, Flutter
+- 🔧 **Tooling:** Redux (learning), Git, VS Code
+- 🎯 Aspiring to: Become a **Full-Stack Developer** and contribute to impactful projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-215732?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express)
+### 🗃️ Backend (Learning)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb)
+### 📱 Mobile Development (Learning)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### 🧰 Tools & Others
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Levi-ikechukwu&show_icons=true&theme=dark" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-ikechukwu&layout=compact&theme=dark" height="160px"/>
-</p>
+### ⚙️ Tools & Frameworks
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🔥 Streak & Trophies
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Levi-ikechukwu&theme=dark" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Levi-ikechukwu&theme=darkhub&margin-w=10"/>
-</p>
+## 💼 Current Project
+**[Linkprosoft](https://github.com/Levi-ikechukwu/Linkprosoft)** 🌟
+> A search engine for finding people with skills and job opportunities. Aimed at bridging the gap between talent and opportunity.
 
 ---
 
-## 📅 Contribution Graph
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=levi-ikechukwu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-ikechukwu&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levi-ikechukwu&theme=react-dark"/>
-</p>
 
----
-
-## 📂 Featured Projects (Coming Soon)
-
-| Project | Description | Tech |
-|---------|------------|------|
-| 🛍️ E-commerce Web App | A scalable online shopping experience | MERN |
-| 📽️ Movie Streaming Platform | Users can explore, play & download movies | Next.js + API |
-| 🔐 Auth System | Secure login & registration with JWT | Express.js + MongoDB |
-
-📌 _Once these are added to GitHub, I’ll link each one here!_
 
 ---
 
-## 💼 Open to Opportunities
-✅ Full-Stack / Frontend Developer Roles  
-✅ Junior Software Engineer Positions  
-✅ Open-source collaborations  
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/levi-ikechukwu-933a3125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🐦 [X (Twitter)](https://x.com/LeviDev_?t=B4y_oPMdOAvrOxJ0_AINRA&s=09)
+- 📘 [Facebook](https://www.facebook.com/profile.php?id=100093596126423)
+- 📞 [WhatsApp](https://wa.me/message/J6O6XEA6YMR4K1)
+- 📷 [Instagram](https://www.instagram.com/levidev_/profilecard/?igsh=MXFvZWF2NjMwYnAwYQ==)
 
 ---
 
-## 📫 Contact Me
-📧 **Email:** leviikechukwu12@gmail.com  
-📍 **GitHub:** <a href="https://github.com/Levi-ikechukwu">Levi-ikechukwu</a>
+### 🎨 Design Inspiration
+"Coding is not just about solving problems but creating experiences. Let’s build something amazing together!"
 
----
-
-<p align="center">✨ Thanks for visiting — feel free to connect, collaborate, or follow my journey!</p>
