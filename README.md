@@ -111,4 +111,97 @@ I'm continuously expanding my skills across software engineering and data scienc
 
 A platform concept designed to connect skilled individuals with relevant job opportunities through skill-based discovery.
 
-**Tech:**
+**Tech:** React.js • JavaScript • Tailwind CSS
+
+🔗 [View Project](https://github.com/Levi-ikechukwu/Linkprosoft)
+
+---
+
+### 🏭 EKM Engineering Services
+
+A professional website built for an engineering and industrial services company, providing information about its services and business operations.
+
+**Tech:** Next.js • React.js • Tailwind CSS
+
+🔗 [Live Website](https://ekmengineeringservices.com/)
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my experience, skills, projects, and work.
+
+🔗 [levidev.vercel.app](https://levidev.vercel.app/)
+
+---
+
+## 📊 Data Science Journey
+
+I'm actively documenting my transition into Data Science through practical exercises, assignments, analysis, and projects.
+
+My work covers:
+
+* 🐍 Python
+* 📊 Data Analysis
+* 📈 Data Visualization
+* 🗄️ SQL
+* 📐 Statistics
+* 🤖 Machine Learning
+* 🧠 Generative AI
+
+📂 **[View my Data Science Journey](https://github.com/Levi-ikechukwu/data-science-journey)**
+
+---
+
+## 🎯 Goals
+
+* Build production-ready full-stack applications
+* Become a strong software engineer
+* Develop practical Data Science and Machine Learning skills
+* Build projects that solve real-world problems
+* Contribute to open-source projects
+* Work with talented engineering teams
+* Continue learning and improving through real-world implementation
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=levi-ikechukwu&show_icons=true&theme=radical" alt="Levi's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi-ikechukwu&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+## 🎹 Beyond Code
+
+When I'm not coding, you'll probably find me:
+
+* 🎹 Playing the piano
+* 📚 Learning something new
+* 💡 Exploring technology and new ideas
+* 🧩 Working through programming problems
+
+---
+
+## 📫 Let's Connect
+
+| Platform       | Link                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| 💼 LinkedIn    | [linkedin.com/in/levi-ikechukwu-933a3125b](https://www.linkedin.com/in/levi-ikechukwu-933a3125b) |
+| 🐦 X / Twitter | [x.com/LeviDev_](https://x.com/LeviDev_)                                                         |
+| 📘 Facebook    | [Facebook](https://www.facebook.com/profile.php?id=100093596126423)                              |
+| 📷 Instagram   | [@levidev_](https://www.instagram.com/levidev_)                                                  |
+| 📧 Email       | **[leviikechukwu12@gmail.com](mailto:leviikechukwu12@gmail.com)**                                |
+
+---
+
+<h3 align="center">💻 Build • Learn • Solve • Repeat 🔁</h3>
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
